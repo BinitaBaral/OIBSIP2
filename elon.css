@@ -1,0 +1,59 @@
+.quote{
+  background-color: rgb(23, 187, 187);
+  border-radius: 12px;
+}
+
+
+h1{
+  background-color: antiquewhite;
+  margin-right: 35rem;
+  margin-left: 35rem;
+  border-radius: 19px;
+}
+
+
+
+img{
+  border:  2px solid #fcfbfb;
+}
+
+
+.image{
+  position: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 300px;
+  width: 250px;
+}
+
+body{
+  background-color: rgb(211, 214, 230);
+  border-color:white;
+}
+
+
+.comp{
+  text-decoration: underline;
+  text-overflow: clip;
+  background-color: antiquewhite;
+  margin-right: 67.8rem;
+  border-radius: 4px;
+  margin-top: 5rem;
+  border-style: solid;
+  border-color: beige;
+}
+
+.events{
+  text-decoration: solid;
+  text-decoration: underline;
+  background-color: antiquewhite;
+  margin-right: 71.5rem;
+  border-radius: 11px;
+  margin-top: 5rem;
+  border-style: solid;
+  border-color: beige;
+}
+
+
+
